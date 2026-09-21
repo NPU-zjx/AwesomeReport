@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Experiment Report"
+  short_description: "Create reusable Word experiment reports with code and evidence"
+  default_prompt: "Use the reusable report workspace to create or revise a Word experiment report, preserve the template hierarchy, include code and evidence for each question, and render-check the final DOCX/PDF."
