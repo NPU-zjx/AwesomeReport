@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+lab-report-zh/output/
+lab-report-zh/qa/
+~$*.docx

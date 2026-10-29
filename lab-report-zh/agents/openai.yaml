@@ -1,0 +1,6 @@
+interface:
+  display_name: "通用中文实验报告"
+  short_description: "依据当前任务和模板制作中文实验或技术实践报告，核对证据并检查最终文档排版"
+  default_prompt: "请使用$lab-report-zh，依据当前任务要求、模板及真实材料制作报告，不引入其他项目背景。"
+policy:
+  allow_implicit_invocation: true

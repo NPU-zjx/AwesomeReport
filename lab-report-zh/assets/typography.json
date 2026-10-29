@@ -1,0 +1,22 @@
+{
+  "chinese": "宋体",
+  "latin": "Times New Roman",
+  "page": {"width": 21, "height": 29.7, "top_margin": 2.5, "bottom_margin": 2.5, "left_margin": 2.5, "right_margin": 2.5, "header_distance": 1.5, "footer_distance": 1.75},
+  "styles": {
+    "Normal": {"size": 12, "indent": 24, "line_spacing": 1.25},
+    "Title": {"size": 16, "bold": true, "after": 12},
+    "Heading 1": {"chinese": "黑体", "size": 14, "bold": true, "before": 12, "after": 6},
+    "Heading 2": {"size": 12, "bold": true, "before": 8, "after": 4},
+    "Heading 3": {"size": 12, "bold": true, "before": 6, "after": 4},
+    "Heading 4": {"size": 12, "bold": true},
+    "Heading 5": {"size": 12, "bold": true},
+    "Heading 6": {"size": 12, "bold": true},
+    "Caption": {"size": 12, "after": 6},
+    "Table Text": {"size": 10.5, "line_spacing": 1.1, "before": 2, "after": 2},
+    "Code": {"size": 9.5, "line_spacing": 1},
+    "Footer": {"size": 10.5},
+    "TOC 1": {"size": 12},
+    "TOC 2": {"size": 12},
+    "TOC 3": {"size": 12}
+  }
+}
